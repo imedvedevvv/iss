@@ -1,0 +1,980 @@
+{
+    "i": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "m": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "up": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "to": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "something": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "they": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "key": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "is": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "have": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "every": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "the": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "open": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "door": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "surround": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "yourself": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "with": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "angels": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "positive": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "energy": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "beautiful": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "people": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "souls": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "clean": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "heart": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "angel": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "let": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "me": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "be": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "clear": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "you": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "make": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "it": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "through": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "jungle": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "paradise": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "that": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "s": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "lion": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "important": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "use": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "cocoa": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "butter": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "more": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "success": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "why": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "not": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "live": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "smooth": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "rough": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "bless": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "do": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "know": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "don": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "t": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "want": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "lunch": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "keeping": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "real": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "so": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "what": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "going": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "us": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "eat": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "chance": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "get": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "water": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "plants": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "see": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "chef": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "dee": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "got": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "never": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "said": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "winning": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "was": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "easy": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "some": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "can": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "handle": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "we": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "best": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "give": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "thanks": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "most": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "high": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "will": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "try": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "close": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "on": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "just": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "in": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "life": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "take": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "trash": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "out": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "if": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "your": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "throw": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "away": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "rid": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "of": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "major": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "wraith": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "talk": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "first": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "month": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "coming": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "money": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "no": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "choice": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "cost": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "and": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "drink": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "coconut": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "fresh": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "trust": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "find": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "peace": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "like": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "a": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "fall": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "ve": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "gotta": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "flow": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "successful": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "work": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "hard": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "history": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "simple": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "told": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "all": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "this": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "before": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "when": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "swimming": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "pool": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "chlorine": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "salt": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "healing": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "hedges": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "how": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "shaped": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "shape": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "getting": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "haircut": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "stay": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "congratulations": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "played": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "another": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "one": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "ever": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "play": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "smart": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "loyal": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "genius": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "eliptical": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "bamboo": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "behind": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "though": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "ain": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "nothin": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "other": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "day": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "grass": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "brown": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "now": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "green": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "because": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "surrender": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "for": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "trap": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "focused": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "ones": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "closest": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "fail": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "everyone": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "has": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "pick": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "my": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "squeaky": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "mogul": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "there": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "road": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "blocks": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "but": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "over": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "come": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "look": [
+        "doc2.txt"
+    ],
+    "at": [
+        "doc2.txt"
+    ],
+    "sunset": [
+        "doc2.txt"
+    ],
+    "amazing": [
+        "doc2.txt"
+    ],
+    "panic": [
+        "doc2.txt"
+    ],
+    "gets": [
+        "doc2.txt"
+    ],
+    "crazy": [
+        "doc2.txt"
+    ],
+    "calm": [
+        "doc2.txt"
+    ],
+    "keep": [
+        "doc2.txt"
+    ],
+    "head": [
+        "doc2.txt"
+    ],
+    "above": [
+        "doc2.txt"
+    ],
+    "business": [
+        "doc2.txt"
+    ],
+    "boomin": [
+        "doc2.txt"
+    ],
+    "learning": [
+        "doc2.txt"
+    ],
+    "cool": [
+        "doc2.txt"
+    ],
+    "knowing": [
+        "doc2.txt"
+    ],
+    "better": [
+        "doc2.txt"
+    ],
+    "celebrate": [
+        "doc2.txt"
+    ],
+    "right": [
+        "doc2.txt"
+    ],
+    "only": [
+        "doc2.txt"
+    ],
+    "way": [
+        "doc2.txt"
+    ],
+    "apple": [
+        "doc2.txt"
+    ],
+    "enjoy": [
+        "doc2.txt"
+    ],
+    "promise": [
+        "doc2.txt"
+    ],
+    "jetski": [
+        "doc2.txt"
+    ],
+    "smile": [
+        "doc2.txt"
+    ],
+    "fan": [
+        "doc2.txt"
+    ],
+    "luv": [
+        "doc2.txt"
+    ],
+    "ladies": [
+        "doc2.txt"
+    ],
+    "always": [
+        "doc2.txt"
+    ],
+    "say": [
+        "doc2.txt"
+    ],
+    "khaled": [
+        "doc2.txt"
+    ],
+    "smell": [
+        "doc2.txt"
+    ],
+    "good": [
+        "doc2.txt"
+    ],
+    "cologne": [
+        "doc2.txt"
+    ],
+    "lot": [
+        "doc2.txt"
+    ],
+    "pillows": [
+        "doc2.txt"
+    ],
+    "watch": [
+        "doc2.txt"
+    ],
+    "back": [
+        "doc2.txt"
+    ],
+    "importantly": [
+        "doc2.txt"
+    ],
+    "shower": [
+        "doc2.txt"
+    ],
+    "dry": [
+        "doc2.txt"
+    ],
+    "cold": [
+        "doc2.txt"
+    ],
+    "world": [
+        "doc2.txt"
+    ]
+}
